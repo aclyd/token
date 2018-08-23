@@ -257,7 +257,7 @@ contract ACLYD is ERC20Token {
     /**
     * @dev Intialises token and all the necesary variable
     */
-    function B2BCoinContract() {
+    function ACLYDCoinContract() {
         name = "ACLYD";
         symbol = "ACLYD";
         decimals = 18;
